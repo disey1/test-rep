@@ -1,3 +1,0 @@
-new_tests
-new_values
-new_arrays
